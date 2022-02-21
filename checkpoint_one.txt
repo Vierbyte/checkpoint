@@ -59,7 +59,13 @@
 
 
 21) What are 3 way to create a Python string?
-
+'Corey'
+"Corey"
+"""
+Corey
+Corey
+Corey
+"""
 
 22) What are 2 types of number data types in Python? Provide an example.
 
