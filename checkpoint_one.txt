@@ -53,7 +53,7 @@
 
 
 19) What does frontend / client side mean?
-
+Front-facing side of an application which usesrs see and interact with.
 
 20) What does backend / server side mean?
 
