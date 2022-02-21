@@ -35,7 +35,8 @@
 
 
 13) What type of values can be in a Python dictionary?
-
+Values in a dictionary can be of any type.
+ex: int 5, str "You", bool True, float 23.122, list "books": ["Book1", "Book2", "Book3"]
 
 14) What type of values can be in a Python list?
 
