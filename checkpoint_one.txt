@@ -84,7 +84,9 @@
 
 
 26) What commands can I use to get from the clips directory to the images directory? (write every command line by line):
-
+cd ../tiktok
+cd ../projects
+cd /instagram/images
 
 27) What method can I use to change this string from "troy" to "Troy"? 
 
