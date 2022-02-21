@@ -17,7 +17,18 @@
 
 
 7) What can be used in order to repeat some block of code? Provide 2 examples.
+A function can be used to excute the same block of code when the function is called on.
+ex 1: 
+def testFunction():
+    print("Hello World!")
 
+testFunction()
+
+ex 2:
+def my_name():
+    print("My name is Corey")
+
+my_name()
 
 8) When saving a value for later use what type of operator do we use?
 
