@@ -41,7 +41,8 @@ my_name()
 We would use the = operator to save values for later.
 
 9) What's the key difference between git revert and git reset?
-
+git revert reverses back to previous commit while maintaining the history of the undone commit.
+git reset returns to a previous commit while destroying the history of the undone commit.
 
 10) What's the key difference between Python lists and tuples?
 
