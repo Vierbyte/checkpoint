@@ -73,7 +73,7 @@ Booleans
 binary 0001001
 
 17) What do we need in order for your computer to make use of programming languages?
-
+compiler / interpreter 
 
 18) At what index is your instructor's name located in this list? ["Ron", "Troy", "Martha"]
 
