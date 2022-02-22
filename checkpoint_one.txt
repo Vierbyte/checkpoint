@@ -216,6 +216,8 @@ Staging area
 Commit/Repo
 
 49) What are the commands we'd use, in order, to move our changes through these stages?
-
+git add fileName
+git commit -m "notes"
+git push -u origin branchName
 
 50) Is spacing in my Python code important? Why?
