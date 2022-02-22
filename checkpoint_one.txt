@@ -138,7 +138,12 @@ print(string.isnumeric())
 using the spilt() function at a specified separator.
 
 31) What are the Python comparison operators? List each and describe.
-
+Equal ==
+Not equal !=
+Greater than >
+Less than <
+Greater than or equal to >=
+Less than or equal to <=
 
 32) What are the Python logical operators? List each and describe.
 
