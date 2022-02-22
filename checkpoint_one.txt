@@ -146,7 +146,9 @@ Greater than or equal to >=
 Less than or equal to <=
 
 32) What are the Python logical operators? List each and describe.
-
+and - returns True if both statements are true.
+or - returns True if one of the statements is true.
+not - reverse the result, returns False if result is True
 
 33) How can we decide to run one piece of code versus another? Provide an example.
 
