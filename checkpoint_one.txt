@@ -141,7 +141,7 @@
 
 
 45) How can I create a git branch?
-
+git checkout -b branchName
 
 46) How can I switch to another branch?
 
