@@ -104,14 +104,14 @@ print("Hello " + "World.")
 
 24) What commands would you use to create the following file structure? (write every command line by line):
     
-    Desktop
-    -> projects
-        -> instagram
-            -> images
+    Desktop mkdir projects
+   cd -> projects mkdir instagram, mkdir tiktok
+     cd   -> instagram mkdir images, touch app.py
+        cd    -> images touch profile_image.jpg
                 -> profile_image.jpg
             -> app.py
-        -> tiktok
-            -> clips
+     cd   -> tiktok mkdir clips
+         cd   -> clips touch app.py
             -> app.py
 
 
