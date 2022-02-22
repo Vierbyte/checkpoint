@@ -21,7 +21,7 @@ ex: x = 5
 ex: y = "Tim"
 
 6) What can I do to prevent certain files and directories from being tracked by git?
-
+I can add file and directory name to a .gitignore file for them to be ignore and not tracked.
 
 7) What can be used in order to repeat some block of code? Provide 2 examples.
 
