@@ -1,4 +1,6 @@
 1) What are comments?
+Comments are lines in a program that the interperter is instructed to ignore. It's invisiable to the program
+and only seen by the human.
 
 
 2) Demonstrate at least 2 ways to create a comment. One should be for multiple lines.
