@@ -114,7 +114,7 @@
 
 
 36) How can I accept user input into my Python code?
-
+Pull request aka PR in Github.
 
 37) How can I see all of my git commits?
 
