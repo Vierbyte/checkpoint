@@ -172,7 +172,7 @@ git pull from your main source code on Github.
 Pull request aka PR in Github.
 
 37) How can I see all of my git commits?
-
+git log --oneline
 
 38) How can I add a value to a Python list?
 
