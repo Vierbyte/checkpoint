@@ -179,7 +179,8 @@ Use append() to add to the end of a list.
 Use insert() method to insert value at a specified index.
 
 39) How can I remove a value from a Python list?
-
+Use remove() method to remove a specified item.
+Use pop() to remove a specified index.
 
 40) How can I access a value in a Python dictionary?
 
