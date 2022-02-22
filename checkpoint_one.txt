@@ -135,7 +135,7 @@ print(a.lower())
 print(string.isnumeric())
 
 30) How can I split a string into a list with each value in the list being a line of the string?
-
+using the spilt() function at a specified separator.
 
 31) What are the Python comparison operators? List each and describe.
 
