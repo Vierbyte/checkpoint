@@ -175,7 +175,8 @@ Pull request aka PR in Github.
 git log --oneline
 
 38) How can I add a value to a Python list?
-
+Use append() to add to the end of a list.
+Use insert() method to insert value at a specified index.
 
 39) How can I remove a value from a Python list?
 
