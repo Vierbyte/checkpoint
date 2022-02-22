@@ -211,7 +211,9 @@ git checkout branchName
 a git conflict will arise.
 
 48) What are the 3 stages of of tracking our work with git?
-
+Working tree
+Staging area
+Commit/Repo
 
 49) What are the commands we'd use, in order, to move our changes through these stages?
 
