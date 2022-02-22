@@ -94,7 +94,9 @@ Corey
 """
 
 22) What are 2 types of number data types in Python? Provide an example.
-
+int = 4
+float = 24.1
+complex = 4j
 
 23) Are we able to add two strings together? How?
 
