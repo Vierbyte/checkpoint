@@ -117,7 +117,7 @@
 
 
 37) How can I see all of my git commits?
-
+git log --oneline
 
 38) How can I add a value to a Python list?
 
