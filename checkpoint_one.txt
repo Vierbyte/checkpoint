@@ -155,4 +155,4 @@
 49) What are the commands we'd use, in order, to move our changes through these stages?
 
 
-50) Is spacing in my Python code important? Why?
+50) Is spacing in my Python code important? Why? Yes, spacing is important in Python as indentations denotes blocks.
