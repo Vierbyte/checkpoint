@@ -205,7 +205,7 @@ For source code management and collabration.
 git checkout -b branchName
 
 46) How can I switch to another branch?
-
+git checkout branchName
 
 47) What happens if multiple engineers try to change the same area of a codebase from different points in time?
 
