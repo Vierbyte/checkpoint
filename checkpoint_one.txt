@@ -202,7 +202,7 @@ A PR is the act of requesting to have a branch of code pulled into the main sour
 For source code management and collabration. 
 
 45) How can I create a git branch?
-
+git checkout -b branchName
 
 46) How can I switch to another branch?
 
