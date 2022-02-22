@@ -132,7 +132,7 @@
 
 
 42) How can I change a value in a Python dictionary?
-
+dict["key"] = change
 
 43) What is a pull request? Describe it in detail.
 
