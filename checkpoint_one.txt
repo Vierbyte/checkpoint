@@ -199,7 +199,7 @@ dict["key"] = change
 A PR is the act of requesting to have a branch of code pulled into the main source for a merge.
 
 44) Why do we use services like Github?
-
+For source code management and collabration. 
 
 45) How can I create a git branch?
 
