@@ -220,4 +220,4 @@ git add fileName
 git commit -m "notes"
 git push -u origin branchName
 
-50) Is spacing in my Python code important? Why?
+50) Is spacing in my Python code important? Why? Yes, spacing is important in Python as indentations denotes blocks.
