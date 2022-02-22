@@ -48,7 +48,7 @@ git reset returns to a previous commit while destroying the history of the undon
 Lists values can be changed/updated whereas tuples are ordered and immutable.
 
 11) What can I do to know where I am within my file system?
-
+type pwd and hit enter
 
 12) Describe the anatomy of a Python dictionary and create one below.
 
