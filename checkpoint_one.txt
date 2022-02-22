@@ -70,7 +70,7 @@ Any value types can be used in a list.
 Booleans
 
 16) What language does your computer understand?
-
+binary 0001001
 
 17) What do we need in order for your computer to make use of programming languages?
 
