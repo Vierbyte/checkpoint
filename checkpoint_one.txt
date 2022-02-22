@@ -51,7 +51,13 @@ Lists values can be changed/updated whereas tuples are ordered and immutable.
 type pwd and hit enter
 
 12) Describe the anatomy of a Python dictionary and create one below.
-
+Dictionaries are written with curly brackets and have keys and values. key:value pairs
+ex:
+favCharacter = {
+    "firstName": "Minato",
+    "lastName": "Namikaze",
+    "age": 28
+}
 
 13) What type of values can be in a Python dictionary?
 
