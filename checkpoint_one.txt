@@ -129,7 +129,9 @@
 
 
 41) How can I remove a value from a Python dictionary?
-
+del dict["key"]
+or 
+dict.pop("key")
 
 42) How can I change a value in a Python dictionary?
 
