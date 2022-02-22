@@ -144,7 +144,7 @@
 
 
 46) How can I switch to another branch?
-git branch branchName
+git checkout branchName
 
 47) What happens if multiple engineers try to change the same area of a codebase from different points in time?
 
