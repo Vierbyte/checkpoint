@@ -183,7 +183,9 @@ Use remove() method to remove a specified item.
 Use pop() to remove a specified index.
 
 40) How can I access a value in a Python dictionary?
-
+key[value]
+or 
+get() method
 
 41) How can I remove a value from a Python dictionary?
 
