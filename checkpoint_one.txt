@@ -82,7 +82,7 @@ index[1]
 Front-facing side of an application which usesrs see and interact with.
 
 20) What does backend / server side mean?
-
+backend/server side are the elements behind the scenes of an application such as databases.
 
 21) What are 3 way to create a Python string?
 
