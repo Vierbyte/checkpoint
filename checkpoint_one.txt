@@ -67,7 +67,7 @@ ex: int 5, str "You", bool True, float 23.122, list "books": ["Book1", "Book2", 
 Any value types can be used in a list.
 
 15) What data type are True and False?
-
+Booleans
 
 16) What language does your computer understand?
 
