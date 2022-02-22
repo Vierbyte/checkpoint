@@ -45,7 +45,7 @@ git revert reverses back to previous commit while maintaining the history of the
 git reset returns to a previous commit while destroying the history of the undone commit.
 
 10) What's the key difference between Python lists and tuples?
-
+Lists values can be changed/updated whereas tuples are ordered and immutable.
 
 11) What can I do to know where I am within my file system?
 
